@@ -1,0 +1,6 @@
+rootProject.name='MVVMDemo'
+include ':app'
+include ':viewmodeldemo'
+include ':liviedatademo'
+include ':lifecycledemo'
+include ':mvvmdemo1'
